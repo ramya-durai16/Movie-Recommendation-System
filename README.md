@@ -4,7 +4,7 @@ This project is a movie recommendation system built with Streamlit and powered b
 
 >Dataset is [HERE](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
->Some files are not available on GitHub due to the large file size. you can get it [HERE](https://huggingface.co/sujoy0011/Movie-Recommendation-System/tree/main)
+>Some files are not available on GitHub due to the large file size. you can get it [HERE](https://github.com/ramya-durai16/Movie-Recommendation-System/tree/main)
 
 ## Table of Contents
 
